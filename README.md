@@ -3,6 +3,7 @@
 # Amazon IVS Broadcast Android SDK Sample App
 
 This repository contains a sample app which use the IVS Broadcast Android SDK.
+
 해당 레포는 [기존 레포](https://github.com/aws-samples/amazon-ivs-broadcast-android-sample) 를 m1 맥북에서 빌드할 때 발생하는 오류 해결 방법을 공유하기 위해 만들어졌습니다.
 
 ## Setup
